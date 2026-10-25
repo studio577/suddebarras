@@ -1,0 +1,44 @@
+:root {
+  /* Couleurs "Sud" */
+  --color-primary: #0F4C75;
+  --color-primary-dark: #1B3A5C;
+  --color-accent: #E07A2A;
+  --color-accent-hover: #C96718;
+  --color-sand: #F2E8DC;
+  --color-olive: #6B8E5A;
+  --color-bg: #FBF8F4;
+  --color-white: #FFFFFF;
+  --color-text: #2E2A26;
+  --color-muted: #6B6560;
+  --color-border: #E4DAD0;
+
+  /* Typo */
+  --font-title: "Fraunces", Georgia, serif;
+  --font-heading: "Manrope", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius: 16px;
+  --radius-lg: 24px;
+  --radius-arch: 120px 120px 16px 16px;
+
+  /* Espacements */
+  --space-xs: .5rem;
+  --space-sm: 1rem;
+  --space-md: 2rem;
+  --space-lg: 4rem;
+  --space-xl: 6rem;
+
+  /* Ombres */
+  --shadow-sm: 0 2px 8px rgba(15, 76, 117, .06);
+  --shadow: 0 4px 20px rgba(15, 76, 117, .08);
+  --shadow-lg: 0 12px 40px rgba(15, 76, 117, .12);
+
+  /* Transitions */
+  --t-fast: 150ms ease;
+  --t: 250ms ease;
+  --t-slow: 400ms cubic-bezier(.2,.7,.2,1);
+
+  --container: 1200px;
+}
